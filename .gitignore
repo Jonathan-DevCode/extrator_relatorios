@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pdf
+resultado_concessao_ferias/
+resposta_geracao_sgp.xml
+resposta_download_sgp.bin
